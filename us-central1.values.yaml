@@ -1,0 +1,7 @@
+name: plaadserver
+namespace: adserver
+replicas: 5
+repoURL: us-central1-docker.pkg.dev/prj-onlinesales-fm-01/us-central1-plaadserver/
+image: plaadserver
+tag: 1.4.7
+containerPort: 8080
